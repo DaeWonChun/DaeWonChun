@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Daewon Chun</h1>
-<h3 align="center">I'm student who dreams of becoming a data analyst.</h3>
+<h1 align="left">Hi 👋, I'm Daewon Chun</h1>
+<h3 align="left">I'm student who dreams of becoming a data analyst.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -12,4 +12,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=daewonchun&show_icons=true&locale=en" alt="daewonchun" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daewonchun&" alt="daewonchun" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=daewonchun&" alt="daewonchun" /></p>
