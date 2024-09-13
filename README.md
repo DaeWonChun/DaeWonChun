@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Daewon Chun</h1>
+<h1 align="left">Hi 👋, I'm Daewon Chun</h1> 
 <h3 align="left">I'm student who dreams of becoming a data analyst.</h3>
 
 <h3 align="left">Languages and Tools:</h3>
